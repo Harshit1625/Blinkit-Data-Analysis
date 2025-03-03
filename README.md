@@ -18,3 +18,5 @@ This analysis **explores sales trends** by examining key factors such as outlet 
 
 ## Recommendations 📌 
 Strategies to enhance sales performance by improving stock availability, targeted marketing, and demand forecasting.
+
+![Image](https://github.com/user-attachments/assets/5bcdc542-dad6-423b-b5fd-9c493c4f712f)
